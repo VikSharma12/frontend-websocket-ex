@@ -40,7 +40,7 @@ data is in the same format as the historic data except that it is not an array.
 
 The server will continue to send data until the client disconnects.
 
-## Instructions
+## Server Instructions
 
 The server is written in javascript for nodejs and runs from the command line.
 It runs on port `8080`.  Follow these instructions to run it:
@@ -49,3 +49,9 @@ It runs on port `8080`.  Follow these instructions to run it:
 2. Run `npm install`
 3. Run the server with the command `node server.js`
 4. To stop the server use `Ctrl-C`
+
+## Submission & Timeline
+
+Timline: You will be given access to the technical-challenge repository for one week from the time the invite email is received. If this isn't long enough to complete the challenge, please let Holly know (holly@emagin.ca).
+
+Submission: Please package up your code into a zip file and submit it back to Holly via email.
