@@ -77,7 +77,7 @@ socket.addEventListener('message', function (event) {
             } 
 
         }
-    } else { //add data
+    } else { //add real-time data
         //console.log('here');
         var add = [{ x: result.timestamp, y: result.value, loc: result.orgName }];
         //console.log(add[0]);
